@@ -1,0 +1,4 @@
+# Referenced at C:\Users\xiaofeng\Documents\html5+sdk\er\Android-SDK@2.5.1.72759_20200104\UniPlugin-Hello-AS\app\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:156
+-keep class io.dcloud.application.DCloudApplication { <init>(...); }
+# Referenced at C:\Users\xiaofeng\Documents\html5+sdk\er\Android-SDK@2.5.1.72759_20200104\UniPlugin-Hello-AS\app\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:297
+-keep class io.dcloud.multiprocess.activity.WebAppActivity1 { <init>(...); }
